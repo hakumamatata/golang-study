@@ -4,7 +4,7 @@ import (
 	"fmt"
 	// 自定義package
 	"greeting"
-	// github package
+	// github package (如果有的話)
 	"github.com/hakumamatata/gosayhoho"
 )
 
