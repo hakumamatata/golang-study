@@ -1,2 +1,5 @@
 .idea/
 *.exe
+
+practice/pkg/
+practice/src/
